@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Web developing Projects**
 
-- 👨‍💻 All of my projects are available at [https://pavithra-npavi.github.io/](https://pavithra-npavi.github.io/)
+- 👨‍💻 All of my projects are available at <a href="https://pavithra-npavi.github.io/" target="_blank"></a>
 
 - 💬 Ask me about **HTTML, CSS, JavaScript, React.Js, Node.JS**
 
