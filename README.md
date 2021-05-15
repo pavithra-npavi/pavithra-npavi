@@ -7,7 +7,7 @@
 ## In short, Tech Enthusiast with passion for Web Development!
 - :telescope: I’m currently working on MERN Stack.
 - :dancers: I’m looking to collaborate with other developers in community.
-- :mailbox: How to reach me: divy_prakash@outlook.com.
+- :mailbox: How to reach me: pavinchinnu@gmail.com.
 <h4> :telescope:<samp> Tech Stack</samp></h4>
   <p >
  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
