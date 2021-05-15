@@ -1,4 +1,4 @@
-### Hi there, I'm Divya Prakash :wave:
+### Hi there, I'm Pavithra N :wave:
 <br/>
 <p>
 <a href="https://www.linkedin.com/in/pavithra-npavi/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
