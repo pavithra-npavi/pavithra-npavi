@@ -1,35 +1,27 @@
-### Hi there 👋
-
-<!--
-**pavithra-npavi/pavithra-npavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi 👋, I'm Pavithra N</h1>
-<h3 align="center">A passionate frontend developer from Bengaluru India</h3>
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
-- 👨‍💻 All of my projects are available at [https://pavithra-npavi.github.io/pavi-portfolio/](https://pavithra-npavi.github.io/pavi-portfolio/)
-
-- 💬 Ask me about **HTML CSS JavaScript React.Js Node.Js MonogoDB**
-
-- 📫 How to reach me **pavinchinnu@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/pavithra-npavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="pavithra-npavi" height="30" width="40" /></a>
+### Hi there, I'm Divya Prakash :wave:
+<br/>
+<p>
+<a href="https://www.linkedin.com/in/pavithra-npavi/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://pavithra-npavi.github.io/"><img src="https://img.icons8.com/fluent/48/000000/domain.png"/></a>
+<p/>
+## In short, Tech Enthusiast with passion for Web Development!
+- :telescope: I’m currently working on MERN Stack.
+- :dancers: I’m looking to collaborate with other developers in community.
+- :mailbox: How to reach me: divy_prakash@outlook.com.
+<h4> :telescope:<samp> Tech Stack</samp></h4>
+  <p >
+ <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/react%20redux%20-%23c21325.svg?&style=for-the-badge&logo=redux&logoColor=white" />
+ <img src="https://img.shields.io/badge/mongodb%20-%23e34f26.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img src="https://img.shields.io/badge/nodejs%20-%23e34f26.svg?&style=for-the-badge&logo=nodejs&logoColor=white" />
+ <img src="https://img.shields.io/badge/Git%20-%23e34f26.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+ </p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pavithra-npavi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align = "center">
+  Show :heart: by starring repositories you find good! <br/>
+:star: From Pavithra N <br/>
+Also, star and fork this repository if you wish to give this new feature a try! <br/>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
